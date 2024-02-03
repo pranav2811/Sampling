@@ -11,6 +11,23 @@ This Python notebook demonstrates how to balance an imbalanced dataset and apply
 5. Training five different machine learning models
 6. Evaluating the models
 
+The notebook uses the following sampling techniques:
+
+1. Simple Sampling
+2. Stratified Sampling
+3. Cluster Sampling
+4. Systematic Sample
+5. Convenience Sampling
+
+The notebook uses the following machine learning models:
+1. Decision Tree
+2. KNN
+3. SVC
+4. Logistic Regression
+5. Random Tree
+
+
+
 ## Dependencies
 
 - Python (>=3.6)
